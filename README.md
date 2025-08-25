@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Freddy. I'm an InfoSec Major and in my career I intend to stop a terminator-like future from happening.
 <!--
 **FreddyFacciponti/FreddyFacciponti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
